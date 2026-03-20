@@ -16,6 +16,7 @@ body{
     margin: 0 auto;
     position: relative;
     background: linear-gradient(#B7D6C7 , #FFE2D1);
+    overflow: hidden;
 
 }
 
@@ -37,7 +38,7 @@ body{
 }
 
 .suelo{
-    width: 100%;
+    width: 200%;
     height: 42px;
     position: absolute;
     bottom: 0;
@@ -68,3 +69,4 @@ body{
         background-position-x: -252px;
     }
 }
+
